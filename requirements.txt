@@ -1,0 +1,15 @@
+streamlit
+PyMuPDF
+pdfplumber
+python-docx
+spacy
+transformers
+torch
+sentencepiece
+pandas
+reportlab
+Pillow
+ollama
+scipy
+numpy
+pytest
